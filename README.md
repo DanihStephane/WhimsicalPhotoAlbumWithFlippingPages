@@ -9,6 +9,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?logo=typescript)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?logo=vite)](https://vitejs.dev)
 
+![Capture d’écran du 2025-01-09 09-59-40](https://github.com/user-attachments/assets/f3c7d16e-947d-4933-89b1-0e4601908a98)
+
+
 </div>
 
 ## ✨ Caractéristiques
@@ -32,7 +35,7 @@
 
 ```bash
 # Cloner le projet
-git clone [votre-repo]
+git clone https://github.com/DanihStephane/WhimsicalPhotoAlbumWithFlippingPages
 
 # Installer les dépendances
 npm install
@@ -109,14 +112,16 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 📜 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+ `LICENSE` free: https://github.com/DanihStephane.
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/danihstephane/
 
 ---
 
 <div align="center">
 
-**🌟 Créé avec passion par [Votre Nom]**
+**🌟 Créé avec passion par Danih Stephane**
 
-[⭐ Star le projet](https://github.com/votre-repo) | [🐛 Signaler un bug](https://github.com/votre-repo/issues) | [💡 Suggérer une fonctionnalité](https://github.com/votre-repo/issues)
+[⭐ Star le projet]([https://github.com/votre-repo](https://github.com/DanihStephane/WhimsicalPhotoAlbumWithFlippingPages)) | [🐛 Signaler un bug]([https://github.com/votre-repo](https://github.com/DanihStephane/WhimsicalPhotoAlbumWithFlippingPages)/issues) | [💡 Suggérer une fonctionnalité]([https://github.com/votre-repo](https://github.com/DanihStephane/WhimsicalPhotoAlbumWithFlippingPages)/issues)
 
 </div>
